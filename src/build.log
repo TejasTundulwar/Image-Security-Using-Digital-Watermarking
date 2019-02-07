@@ -1,0 +1,112 @@
+mcc -o 'Untitled1' -W 'WinMain:Untitled1' -d 'C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src' -T 'link:exe' -v 'C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\FINAL.m' -a 'C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\host.jpg' -a 'C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\host2.jpg' -a 'C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\watermark.jpg' -a 'C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\watermark2.jpg'  
+Compiler version: 4.10 (R2009a)  
+Processing C:\Program Files (x86)\MATLAB\R2009a\toolbox\wavelet\mcc.enc 
+Processing C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\mcc.enc 
+Processing C:\Program Files (x86)\MATLAB\R2009a\toolbox\nnet\mcc.enc 
+Processing C:\Program Files (x86)\MATLAB\R2009a\toolbox\shared\imageslib\mcc.enc 
+Processing include files... 
+2 item(s) added. 
+Processing directories installed with MCR... 
+The file C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\mccExcludedFiles.log contains a list of functions excluded from the CTF archive. 
+4 item(s) added. 
+Generating MATLAB path for the compiled application... 
+Created 60 path items. 
+Begin validation of MEX files: Sat Apr 23 19:59:37 2016  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\bin\win32\libippmw.dll'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\images\private\imlincombc.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\images\private\immultmex.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\images\private\intlutc.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptformats\private\bitparse.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptformats\private\dicom_decode_rle_segment.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptformats\private\dicomlookup_helper.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptformats\private\dicomparse.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptformats\private\tobits.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptutils\iptcheckinput.mexw32'.  
+Found M-file 'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptutils\iptcheckinput.m'.  
+MEX file  
+    'C:\Program Files (x86)\MATLAB\R2009a\toolbox\images\iptutils\iptcheckinput.mexw32'  
+ is valid. It contains 'mexFunction.'  
+End validation of MEX files: Sat Apr 23 19:59:37 2016  
+Parsing file "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\FINAL.m" 
+	(Referenced from: "Compiler Command Line").  
+Parsing file "C:\Program Files (x86)\MATLAB\R2009a\toolbox\compiler\deploy\deployprint.m" 
+	(Referenced from: "Compiler Command Line").  
+Parsing file "C:\Program Files (x86)\MATLAB\R2009a\toolbox\compiler\deploy\printdlg.m" 
+	(Referenced from: "Compiler Command Line").  
+Deleting 10 temporary MEX authorization files.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_5116_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_464_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_29995_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_31559_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_17496_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_8998_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_13357_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_9847_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_5733_1740.auth'.  
+Removing: 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_3428_1740.auth'.  
+Generating file "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_main.c".  
+Generating file "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_delay_load.c".  
+Generating file "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\readme.txt".  
+Generating file "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_mcc_component_data.c".  
+Contents of temporary response file 'C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_8333':  
+ ......................  
+' -O -v -output "Untitled1" -I"C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src" "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_main.c" "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_delay_load.c" "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_mcc_component_data.c" -link exe  -env MCR_DELAYLOAD=/delayload:mclmcrrt710.dll -env MCR_DELAYLIB=delayimp.lib -outdir "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src"'  
+......................  
+Executing command: mbuild  "@C:\Users\Foxtrot\AppData\Local\Temp\mathworks_tmp_1740_8333"  
+ This is mbuild Copyright 1984-2006 The MathWorks, Inc. 
+ 
+-> Default options filename found in C:\Users\Foxtrot\AppData\Roaming\MathWorks\MATLAB\R2009a 
+---------------------------------------------------------------- 
+->    Options file           = C:\Users\Foxtrot\AppData\Roaming\MathWorks\MATLAB\R2009a\compopts.bat 
+->    COMPILER               = lcc 
+->    Compiler flags: 
+         COMPFLAGS           = -c -Zp8 -I"C:\PROGRA~2\MATLAB\R2009a\sys\lcc\include" -noregistrylookup 
+         OPTIMFLAGS          = -DNDEBUG 
+         DEBUGFLAGS          = -g4 
+         arguments           =  -IC:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC 
+         Name switch         = -Fo 
+->    Pre-linking commands   =  
+->    LINKER                 = lcclnk 
+->    Link directives: 
+         LINKFLAGS           = -tmpdir "C:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC\." -L"C:\PROGRA~2\MATLAB\R2009a\sys\lcc\lib" -libpath "C:\PROGRA~2\MATLAB\R2009a\extern\lib\win32\lcc" 
+         LINKFLAGSPOST       = mclmcrrt.lib 
+         Name directive      = -o "C:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC\Untitled1.exe" 
+         File link directive =  
+         Lib. link directive =  
+         Rsp file indicator  = @ 
+->    Resource Compiler      =  
+->    Resource Linker        =  
+---------------------------------------------------------------- 
+ 
+ 
+--> lcc  -IC:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC -c -Zp8 -I"C:\PROGRA~2\MATLAB\R2009a\sys\lcc\include" -noregistrylookup -FoC:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\Untitled1_main.obj -IC:\PROGRA~2\MATLAB\R2009a\extern\include -IC:\PROGRA~2\MATLAB\R2009a\simulink\include -DNDEBUG "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_main.c" 
+ 
+ 
+--> lcc  -IC:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC -c -Zp8 -I"C:\PROGRA~2\MATLAB\R2009a\sys\lcc\include" -noregistrylookup -FoC:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\Untitled1_delay_load.obj -IC:\PROGRA~2\MATLAB\R2009a\extern\include -IC:\PROGRA~2\MATLAB\R2009a\simulink\include -DNDEBUG "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_delay_load.c" 
+ 
+Warning C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_delay_load.c: 21  static `void function(void) FailedToLoadMCR' is not referenced 
+0 errors, 1 warnings 
+ 
+--> lcc  -IC:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC -c -Zp8 -I"C:\PROGRA~2\MATLAB\R2009a\sys\lcc\include" -noregistrylookup -FoC:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\Untitled1_mcc_component_data.obj -IC:\PROGRA~2\MATLAB\R2009a\extern\include -IC:\PROGRA~2\MATLAB\R2009a\simulink\include -DNDEBUG "C:\Users\Foxtrot\Documents\Main Project\Color DWT-SVD watermarking\New\FINAL\Final\Untitled1\src\Untitled1_mcc_component_data.c" 
+ 
+    Contents of C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\mbuild_tmp.rsp: 
+  C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\Untitled1_main.obj  C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\Untitled1_delay_load.obj  C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\Untitled1_mcc_component_data.obj 
+ 
+ 
+--> lcclnk -o "C:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC\Untitled1.exe" -tmpdir "C:\USERS\FOXTROT\DOCUME~1\MAINPR~1\COLORD~2\NEW\FINAL\FINAL\UNTITL~1\SRC\." -L"C:\PROGRA~2\MATLAB\R2009a\sys\lcc\lib" -libpath "C:\PROGRA~2\MATLAB\R2009a\extern\lib\win32\lcc"  @C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\MBUILD~1.RSP  mclmcrrt.lib 
+ 
+ 
+--> "if exist C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\templib.def del C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\templib.def" 
+ 
+ 
+--> "if exist C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\templib_stub.obj del C:\USERS\FOXTROT\APPDATA\LOCAL\TEMP\MBUILD~1\templib_stub.obj" 
+ 
