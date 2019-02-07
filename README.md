@@ -1,1 +1,2 @@
 # Image Security Using Digital Watermarking
+This project represents a hybrid DWT and SVD based biometric watermarking algorithm which is useful for embedding watermark i.e. binary equivalent of minutiae of fingerprint into cover fingerprint image. Here we choose a lower resolution band for embedding watermark as watermark detection is computationally effective at lower resolution band. We use one watermark to implement both the algorithms and introduce a second layer of security by providing password protection for embedding and extracting the watermark.
